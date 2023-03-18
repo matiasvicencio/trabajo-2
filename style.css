@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(57, 57, 57);
+  font-family: sans-serif;
+}
+
+header {
+  float: left;
+}
+
+.cambio-color:hover {
+  color: rgb(116, 116, 116);
+}
+
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+.barra-celeste {
+  background-color: #23a2cc;
+  padding: 5px;
+  margin-left: 170px;
+  margin-right: 50;
+}
+
+.barra-amarilla {
+  background-color: #baba1e;
+  padding: 5px;
+  margin-left: 170px;
+  margin-right: 50;
+}
+.barra-naranja {
+  background-color: #cf9818;
+  padding: 5px;
+  margin-left: 170px;
+  margin-right: 50;
+}
+
+.barra-roja {
+  background-color: #ba1e1e;
+  padding: 5px;
+  margin-left: 170px;
+  margin-right: 50;
+}
+
+h1 {
+  color: white;
+  margin-left: 120px;
+}
+
+p {
+  color: white;
+  margin-right: 120;
+  margin-left: 120;
+}
+
+
+
+
+
+  
